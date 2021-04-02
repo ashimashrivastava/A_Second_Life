@@ -1,5 +1,7 @@
 Vue. js
 
+Check out the site : https://a-second-life.herokuapp.com/
+
 Instructions for running the code :
 
 1. Please unzip the folder ASecondLifeWebsite.
